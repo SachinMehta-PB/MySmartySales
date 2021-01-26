@@ -80,7 +80,7 @@
       <div class="item active">
         <img src="image slider/mn.jpg" alt="Los Angeles" style="width:100%; height :500px;">
           <div class="carousel-caption">
-        <h3>Nikhil Sharma</h3>
+        <h3>Nikhil SharmaMN</h3>
         <p>The LabelMN Merchandise</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a></p>
       </div>
